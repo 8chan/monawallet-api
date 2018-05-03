@@ -8,7 +8,7 @@ html,body {
   position: relative;
 }
 
-.fa {
+.fab {
     color: #fff;
 }
 
@@ -125,7 +125,7 @@ html,body {
     margin-top: 1em; 
 }
 
-.footer .fa {
+.footer .fab {
     margin: 0 10px;
 }
 
